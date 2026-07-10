@@ -1,1 +1,1 @@
-print ("division:", 78/2)
+print ("division:", 10/6)
